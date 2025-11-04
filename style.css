@@ -1,6 +1,6 @@
 * {
-  margin: 0;
-  padding: 0;
+  margin: 0px;
+  padding: 0px;
   box-sizing: border-box;
   color: white;
 }
@@ -99,7 +99,6 @@ nav .dropdown {
   margin: 0px auto;
   padding-top: 90px;
 }
-
 .glass-girl {
   text-align: center;
   margin: 0px auto;
@@ -218,7 +217,6 @@ ul .lang {
   width: 338px;
   border-radius: 50%;
 }
-
 .ibm-container {
   display: flex;
   justify-content: space-evenly;
@@ -244,7 +242,7 @@ ul .lang {
 .container {
   padding: 10px 40px;
   position: relative;
-  width: 50%;
+  /*width: 50%;*/
 }
 .timeline-wrapper::after {
   content: url(timeline-img.png);
